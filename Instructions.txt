@@ -1,0 +1,7 @@
+Here are the instructions for setup:
+
+Be sure to use a Linux machine
+
+Uno
+Dos
+Tres
